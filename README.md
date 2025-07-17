@@ -1,8 +1,8 @@
 # Netflix-EDA-project
-This project is an Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset. It includes data cleaning, feature extraction, and visualizations using Python libraries such as pandas, seaborn, and matplotlib to uncover insights about content type, duration, release trends, country distribution, and more.
+This project is an Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset. It includes data cleaning, feature extraction, and visualizations using Python libraries such as Pandas, Seaborn, and Matplotlib to uncover insights about content type, duration, release trends, country distribution, and more.
 
 ## Dataset
-About this Dataset: Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
+About this Dataset: Netflix is one of the most popular media and video streaming platforms. As of mid-2021, it has over 200 Million Subscribers globally. This tabular dataset consists of listings of all the movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, and duration.
 source from Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Project Goals
@@ -37,4 +37,5 @@ Possibly discontinued or experimental shows that didn’t proceed beyond Season 
 6. Most Popular Genre Pairing: Drama + International
 The most common genre combination is “Drama” and “International”, reflecting a strong global interest in emotionally compelling narratives from diverse cultures.
 
-
+7. Bingeability Over Longevity:
+Movies typically last around 2 hours in duration, and TV Shows rarely extend beyond 3 seasons.
