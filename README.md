@@ -1,6 +1,11 @@
 # Netflix-EDA-project
 This project is an Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset. It includes data cleaning, feature extraction, and visualizations using Python libraries such as pandas, seaborn, and matplotlib to uncover insights about content type, duration, release trends, country distribution, and more.
 
+
+## Dataset
+About this Dataset: Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
+source from Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 ## Key Insights from the Data
 1. Movies Dominate Netflix's Library
 More than two-thirds of the titles on Netflix are movies, outnumbering TV shows by more than double. This reflects Netflix's focus on offering quick, one-off content experiences over longer series.
