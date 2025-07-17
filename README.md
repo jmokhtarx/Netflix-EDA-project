@@ -6,6 +6,16 @@ This project is an Exploratory Data Analysis (EDA) of the Netflix Movies and TV 
 About this Dataset: Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 source from Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+## Project Goals
+1. Extract insights using visualizations (Seaborn & Matplotlib)
+2. Communicate findings through storytelling and interactive plots
+
+## Tools Used
+1. Python (Pandas, NumPy)
+2. Seaborn & Matplotlib for data visualization
+3. Google Colab (for development and execution)
+
+   
 ## Key Insights from the Data
 1. Movies Dominate Netflix's Library
 More than two-thirds of the titles on Netflix are movies, outnumbering TV shows by more than double. This reflects Netflix's focus on offering quick, one-off content experiences over longer series.
@@ -29,11 +39,4 @@ Possibly discontinued or experimental shows that didn’t proceed beyond Season 
 6. Most Popular Genre Pairing: Drama + International
 The most common genre combination is “Drama” and “International”, reflecting a strong global interest in emotionally compelling narratives from diverse cultures.
 
-## Project Goals
-1. Extract insights using visualizations (Seaborn & Matplotlib)
-2. Communicate findings through storytelling and interactive plots
 
-## Tools Used
-1. Python (Pandas, NumPy)
-2. Seaborn & Matplotlib for data visualization
-3. Google Colab (for development and execution)
